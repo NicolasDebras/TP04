@@ -1,0 +1,12 @@
+# ADR Application de gestion de Note
+
+## Langage
+python
+
+## Contexte
+Notre application a pour but de proposer une gestion de notes
+
+## Décision
+Nous avons décidé d'adopter une architecture qui utilise un Model pour les Notes et le code fonctionnel est découpé
+dans les services  
+
